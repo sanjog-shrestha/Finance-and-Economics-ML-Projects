@@ -65,5 +65,10 @@ Running the script prints correlation tables, model summary statistics, and disp
 ![Actual vs forecast](image-1.png)
 
 
+## References
+
+- [GeeksforGeeks — Machine Learning Projects](https://www.geeksforgeeks.org/machine-learning/machine-learning-projects/) — used as a general reference/inspiration while working on this project.
+
+
 ---
 *This is a personal learning project, not financial advice or a trading system.*

@@ -61,5 +61,10 @@ Running the script prints class balance stats, evaluation metrics, and displays 
 
 ![Confusion matrix](image.png)
 
+## References
+
+- [GeeksforGeeks — Machine Learning Projects](https://www.geeksforgeeks.org/machine-learning/machine-learning-projects/) — used as a general reference/inspiration while working on this project.
+
+
 ---
 *This is a personal learning project, not a production fraud detection system.*
