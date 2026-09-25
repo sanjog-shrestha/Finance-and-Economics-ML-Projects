@@ -68,12 +68,15 @@ Running the script prints column-drop counts, missing-value diagnostics, correla
 
 **Target distribution**
 
-![Target distribution](image-1.png)
+![Target distributionz](image-1.png)
 
 **Correlation heatmap**
 
 ![Correlation heatmap](image.png)
 
+## References
+
+- [GeeksforGeeks — Machine Learning Projects](https://www.geeksforgeeks.org/machine-learning/machine-learning-projects/) — used as a general reference/inspiration while working on this project.
 
 ---
 *This is a personal learning project, not a production valuation model.*
