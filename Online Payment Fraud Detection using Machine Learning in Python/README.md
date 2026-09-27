@@ -70,6 +70,8 @@ Running the script prints column-type summaries, fraud counts, and ROC-AUC score
 
 ![Confusion matrix](image-1.png)
 
+## References
 
+- [GeeksforGeeks — Machine Learning Projects](https://www.geeksforgeeks.org/machine-learning/machine-learning-projects/) — used as a general reference/inspiration while working on this project.
 ---
 *This is a personal learning project, not a production fraud detection system.*
