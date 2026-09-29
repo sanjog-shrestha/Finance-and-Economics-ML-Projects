@@ -66,6 +66,8 @@ Running the script displays per-company price/volume plots, Apple's full price h
 
 ![Actual vs predicted](image.png)
 
+## References
 
+- [GeeksforGeeks — Machine Learning Projects](https://www.geeksforgeeks.org/machine-learning/machine-learning-projects/) — used as a general reference/inspiration while working on this project.
 ---
 *This is a personal learning project, not financial advice or a trading system.*
