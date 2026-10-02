@@ -70,12 +70,11 @@ Running the script prints the train/test date ranges, the last few forecast rows
 
 **Forecast (training history + test-period forecast with uncertainty band)**
 
-![Prophet forecast](forecast.png)
+![Prophet forecast](image.png)
 
 **Forecast components (trend, weekly and yearly seasonality)**
 
-![Forecast components](components.png)
-
+![Forecast components](image-1.png)
 **Error metrics on the test period (Jul 2019 – Jul 2023)**
 
 | Metric | Value |
